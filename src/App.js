@@ -9,7 +9,7 @@ class App extends Component {
     return (
       <div>
         <header>
-          <h1>Contact</h1>
+          <h1>Contacts</h1>
           <nav>
             <Link to="/">Home</Link>
             <Link to="/about">About</Link>
